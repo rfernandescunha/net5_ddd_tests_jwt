@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Service\\service.csproj": {}
+  },
+  "projects": {
+    "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Data\\Api.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Data\\Api.Data.csproj",
+        "projectName": "Api.Data",
+        "projectPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Data\\Api.Data.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj",
+        "projectName": "Api.Domain",
+        "projectPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Service\\service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Service\\service.csproj",
+        "projectName": "service",
+        "projectPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Service\\service.csproj",
+        "packagesPath": "C:\\Users\\rafa_\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Data\\Api.Data.csproj": {
+                "projectPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Data\\Api.Data.csproj"
+              },
+              "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj": {
+                "projectPath": "D:\\Cursos\\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\\projeto_api\\src\\Api.Domain\\Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

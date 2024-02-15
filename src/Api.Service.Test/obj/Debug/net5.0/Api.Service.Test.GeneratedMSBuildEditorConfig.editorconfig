@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Api.Service.Test
+build_property.ProjectDir = D:\BitBucket\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\Api_RestFull_Core5_DDD_Tests\src\Api.Service.Test\

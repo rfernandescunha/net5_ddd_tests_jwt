@@ -1,0 +1,35 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5000",
+      "sslPort": 0
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ConnectionString": "Data Source=.\\SQLEXPRESS;Initial Catalog=dbAPI_Integration;User ID=rfcunha;Password=1234567",
+        "Seconds": "28800",
+        "Issuer": "ExmploIssuer",
+        "Migration": "True",
+        "Audience": "ExemploAudience",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Banco": "Sql"
+      }
+    },
+    "application": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "weatherforecast",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}

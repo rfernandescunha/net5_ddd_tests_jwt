@@ -1,0 +1,15 @@
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\data.deps.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.AssemblyInfoInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.AssemblyInfo.cs
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.csproj.CoreCompileInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\data.runtimeconfig.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\data.runtimeconfig.dev.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.genruntimeconfig.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.csproj.CopyComplete
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\data.csproj.AssemblyReference.cache

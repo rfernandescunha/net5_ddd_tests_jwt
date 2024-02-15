@@ -1,0 +1,16 @@
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\crosscutting.deps.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\crosscutting.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\crosscutting.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.AssemblyInfoInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.AssemblyInfo.cs
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.csproj.CoreCompileInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\service.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\service.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.csproj.CopyComplete
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\crosscutting.csproj.AssemblyReference.cache

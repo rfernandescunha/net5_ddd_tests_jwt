@@ -1,0 +1,16 @@
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.deps.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.runtimeconfig.dev.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfoInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.AssemblyInfo.cs
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CoreCompileInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.CopyComplete
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.genruntimeconfig.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.csproj.AssemblyReference.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Data\obj\Debug\netcoreapp3.1\Api.Data.GeneratedMSBuildEditorConfig.editorconfig

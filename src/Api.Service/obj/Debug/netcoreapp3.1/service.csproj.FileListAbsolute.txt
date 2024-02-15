@@ -1,0 +1,14 @@
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\service.deps.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\service.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\service.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.AssemblyInfoInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.AssemblyInfo.cs
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.csproj.CoreCompileInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.csproj.CopyComplete
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\service.csproj.AssemblyReference.cache

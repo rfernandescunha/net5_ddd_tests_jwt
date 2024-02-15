@@ -1,0 +1,15 @@
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfoInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.AssemblyInfo.cs
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CoreCompileInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.deps.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Service.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\bin\Debug\netcoreapp3.1\Api.Data.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.CopyComplete
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.csproj.AssemblyReference.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Service\obj\Debug\netcoreapp3.1\Api.Service.GeneratedMSBuildEditorConfig.editorconfig

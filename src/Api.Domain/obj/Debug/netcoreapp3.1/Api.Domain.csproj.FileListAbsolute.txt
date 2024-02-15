@@ -1,0 +1,10 @@
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.deps.json
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\bin\Debug\netcoreapp3.1\Api.Domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfoInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.AssemblyInfo.cs
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.CoreCompileInputs.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.dll
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.pdb
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.csproj.AssemblyReference.cache
+D:\Cursos\NetCore3.1_Net5.0 - C# API - Arquitetura com DDD na Pratica\projeto_api\src\Api.Domain\obj\Debug\netcoreapp3.1\Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
